@@ -1,0 +1,6 @@
+composer.lock
+pot/fr.pot
+vendor
+Exceptions
+gettext.php
+api.txt
