@@ -4,11 +4,11 @@
 - French
 
 ##How to create  a new translation
-You'll need Composer and php2po ( http://translate-toolkit.readthedocs.org/en/latest/commands/php2po.html )
+Composer is needed.
 
 ``` Bash
 composer install
-./extract.sh <translation_name> 
+./extract.sh <translation_name>
 ```
 
 You'll end up with three generated files :
