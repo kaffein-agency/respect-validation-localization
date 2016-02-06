@@ -17,4 +17,6 @@ You'll end up with three generated files :
 - pot/<translation_name>.pot : the file ready to translate from english
 
 I used a combination of POedit and manual/regexp search & replace to accelerate the translation of (numerous) repetitive words.  
-The end result may not be perfect yet, and there might be some expressions missing. Don't hesitate to send me a better grep/extracting method for extract.sh.
+
+##Contributing
+The end result may not be perfect yet, and there might be some expressions missing. Don't hesitate to send me a better grep/extracting method for extract.sh, or send me other completed translations.
